@@ -1,1 +1,1 @@
-# Team
+Build a software engineering team generator command line app. It will prompt the user for information about the team.  When the user has finished building the team, the application will create an HTML file based on the team information provided by the user. 
