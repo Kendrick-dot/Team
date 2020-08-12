@@ -1,0 +1,25 @@
+{
+  "name": "team",
+  "version": "1.0.0",
+  "description": "Team generator command line app. It will prompt the user for information about the team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kendrick-dot/Team.git"
+  },
+  "keywords": [
+    "team"
+  ],
+  "author": "Kendrick Jean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kendrick-dot/Team/issues"
+  },
+  "homepage": "https://github.com/Kendrick-dot/Team#readme",
+  "dependencies": {
+    "team-generator-packages": "^1.0.4"
+  }
+}
